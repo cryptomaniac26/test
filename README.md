@@ -1,2 +1,2 @@
-# BallasCoin
-Home of the BallasCoin
+# ProductCoin
+Home of ProductCoin
