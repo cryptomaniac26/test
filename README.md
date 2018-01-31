@@ -1,2 +1,0 @@
-# ProductCoin
-Home of ProductCoin
